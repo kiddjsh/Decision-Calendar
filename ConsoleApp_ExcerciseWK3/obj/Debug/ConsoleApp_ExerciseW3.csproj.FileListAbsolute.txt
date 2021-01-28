@@ -1,0 +1,6 @@
+c:\users\kidder\documents\visual studio 2012\Projects\ConsoleApp_ExerciseW3\ConsoleApp_ExerciseW3\bin\Debug\ConsoleApp_ExerciseW3.exe.config
+c:\users\kidder\documents\visual studio 2012\Projects\ConsoleApp_ExerciseW3\ConsoleApp_ExerciseW3\bin\Debug\ConsoleApp_ExerciseW3.exe
+c:\users\kidder\documents\visual studio 2012\Projects\ConsoleApp_ExerciseW3\ConsoleApp_ExerciseW3\bin\Debug\ConsoleApp_ExerciseW3.pdb
+c:\users\kidder\documents\visual studio 2012\Projects\ConsoleApp_ExerciseW3\ConsoleApp_ExerciseW3\obj\Debug\ConsoleApp_ExerciseW3.csprojResolveAssemblyReference.cache
+c:\users\kidder\documents\visual studio 2012\Projects\ConsoleApp_ExerciseW3\ConsoleApp_ExerciseW3\obj\Debug\ConsoleApp_ExerciseW3.exe
+c:\users\kidder\documents\visual studio 2012\Projects\ConsoleApp_ExerciseW3\ConsoleApp_ExerciseW3\obj\Debug\ConsoleApp_ExerciseW3.pdb
