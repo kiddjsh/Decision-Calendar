@@ -9,7 +9,7 @@ An application that prompts and accepts a number between 1 and 12, displaying th
 ![Pseudocode](https://raw.githubusercontent.com/kiddjsh/Decision-Calendar/main/image/Pseudocode.PNG)
 
 # Flowchart
-![Flowchart](https://raw.githubusercontent.com/kiddjsh/Decision-Calendar/main/image/Exercise_FlowChart_1.PNG),
+![Flowchart](https://raw.githubusercontent.com/kiddjsh/Decision-Calendar/main/image/Exercise_FlowChart_1.PNG)
 ![Flowchart](https://raw.githubusercontent.com/kiddjsh/Decision-Calendar/main/image/Exercise_Flowchart_2.PNG)
 
 # My C# Code Solution
