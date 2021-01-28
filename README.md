@@ -7,5 +7,10 @@ A program that prompts and accepts a number between 1 and 12, displaying the num
 # Pseudocode
 ![Pseudocode](https://raw.githubusercontent.com/kiddjsh/Decision-Calendar/main/image/Pseudocode.PNG)
 
+# My C# Code Solution
+```C#
+
+```
+
 # Working Program
 ![Working Program](https://raw.githubusercontent.com/kiddjsh/Decision-Calendar/main/image/Working%20Program.PNG)
