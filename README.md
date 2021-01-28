@@ -1,6 +1,5 @@
 # Decision-Calendar
-An application that prompts and accepts a number between 1 and 12, displaying the number with the appropriate month 
-(e.g., “This is the 1st month…January, This is the 2nd month…February, This is the 12th month…December”).
+An application, using a solution algorithm that uses logical and relational expressions, that prompts and accepts a number between 1 and 12, displaying the number with the appropriate month (e.g., “This is the 1st month…January, This is the 2nd month…February, This is the 12th month…December”).
 
 # IPO Model
 ![IPO Model](https://raw.githubusercontent.com/kiddjsh/Decision-Calendar/main/image/IMO%20Model.PNG)
